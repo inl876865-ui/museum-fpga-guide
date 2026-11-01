@@ -1,0 +1,20 @@
+Location         : F:\FPGA\code_wansai\lab_ex5_i2s\doc\formal_sync_clock_display_20261027\verify_reload
+Running with     : Tang Dynasty v6.2.168116
+                   Copyright (c) 2012-2025 Anlogic Inc.
+Top Model        : top
+Device           : EG4S20BG256
+Speed            : NA
+
+Timing Mode      : final
+Setup            : WNS   631ps  TNS        0ps  NUM_FEPS     0
+Hold             : WNS    24ps  TNS        0ps  NUM_FEPS     0
+
+Flow Statistics  :
+--------------------------------------------------------------------------------------------------
+     command     |  #calls  |  wall time  |  cpu time(s)  |  used memory(mb)  |  peak memory(mb)  
+--------------------------------------------------------------------------------------------------
+    import_db    |    1     |  7s(100%)   |    6(100%)    |        977        |        977        
+  import_device  |    1     |   0s(0%)    |     0(0%)     |        83         |        83         
+--------------------------------------------------------------------------------------------------
+      total      |    2     |     7s      |       6       |        977        |        977        
+--------------------------------------------------------------------------------------------------

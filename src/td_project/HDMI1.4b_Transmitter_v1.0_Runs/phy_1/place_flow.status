@@ -1,0 +1,4 @@
+Location: F:\FPGA\code_wansai\lab_ex5_i2s\doc\clock_display_buf_20261024\candidate_clock_display_buf\physical_seed53
+Current delivered clock-display placement; exact source: RESULT.json and place.qor
+MSLICE 4854 LSLICE 4854; seed53 lower_pin_density; placed timing is not final signoff.
+Final routed signoff: route_flow.status and final_timing.rpt

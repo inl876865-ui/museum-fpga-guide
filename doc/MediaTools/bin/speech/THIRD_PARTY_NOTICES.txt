@@ -1,0 +1,13 @@
+Third-party components
+
+whisper.cpp Windows x64 CPU runtime
+Project: https://github.com/ggml-org/whisper.cpp
+Runtime source: https://github.com/ggml-org/whisper.cpp/releases/tag/b5130
+License: MIT; see licenses/whisper.cpp-LICENSE.
+
+Whisper small multilingual model in ggml format
+Model source: https://huggingface.co/ggerganov/whisper.cpp/blob/90a64d80ea254cf67575b41a5971f972c79f7b45/ggml-small.bin
+Model SHA256: 1be3a9b2063867b937e64e2ec7483364a79917e157fa98c5d94b5c1fffea987b
+License: MIT; see licenses/Whisper-model-LICENSE.
+
+The runtime uses the included CPU backend libraries. Preserve the speech directory when moving the application.
